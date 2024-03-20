@@ -7,3 +7,4 @@
 - Lab 5: Linux Firewall Exploration Lab
 - Lab 6: VPN Lab: The Container Version
 - Lab 7: Local DNS Attack Lab
+- Lab 8: Crypto Lab: Secret-Key Encryption
